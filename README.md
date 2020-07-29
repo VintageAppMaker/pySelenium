@@ -1,4 +1,4 @@
-#### Python Selenium example
+# Python Selenium example
 > Selenium을 이용한 Chrome 브라우저 제어
 
 ![](out.gif)
