@@ -29,7 +29,7 @@ from selenium.webdriver.chrome.options import Options
 # 마우스로 원하는 위젯클릭
 # 소스코드로 이동
 
-# Youtube 극장모드로 열기
+# Youtube 
 def doGetYoutube():
     options = Options()
     options.headless = True
